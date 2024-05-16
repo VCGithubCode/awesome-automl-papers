@@ -107,6 +107,7 @@ There are no formal definition of *AutoML*. From the descriptions of most papers
 + 2020 | On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice | Li Yang, et al. | Neurocomputing | [`PDF`](https://arxiv.org/pdf/2007.15745.pdf)
 + 2020 | Automated Machine Learning--a brief review at the end of the early years | Escalante, H. J. | arXiv | [`PDF`](https://arxiv.org/pdf/2008.08516.pdf)
 + 2022 | IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective | Li Yang, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/2209.08018.pdf)
++ 2024 | Automated machine learning: past, present and future | Baratchi. M, et al. | Artificial Intelligence Review | [`Springer`](https://link.springer.com/article/10.1007/s10462-024-10726-1)
 ### Automated Feature Engineering
 + #### Expand Reduce
  - 2022 | BERT-Sort: A Zero-shot MLM Semantic Encoder on Ordinal Features for AutoML | Mehdi Bahrami, et al. | AutoML | [`PDF`](https://github.com/marscod/BERT-Sort)
